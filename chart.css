@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Poppins&display=swap');
+
+body{
+    background-color: azure;
+    font-family: 'Poppins', sans-serif;
+   
+}
+.box{
+    display: flex;
+    justify-content: center;
+   
+}
+.chartBox{
+    
+    width:1000px;
+    color:rgb(240, 236, 236);
+    padding:20px;
+    margin-top:40px;
+    border:0.1px solid rgba(209, 206, 206, 0.527);
+    background:rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 33px 35px 80px -33px rgba(115,98,98,0.37);
+    -webkit-box-shadow: 33px 35px 80px -33px rgba(115,98,98,0.37);
+    -moz-box-shadow: 33px 35px 80px -33px rgba(115,98,98,0.37);
+}
+
+h2{
+text-align: center;
+font-size: 50px;
+color:rgb(6, 85, 109)
+}
