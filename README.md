@@ -1,11 +1,11 @@
 ### Global Temperature graph with chart.js using fetch() method
 
 ///////// About
-              Fetching the data from local csv file with fetch()
-              Change the csv format data into string
-              Add the string into array with split() 
-              Put those string array into chart function
-              Display the chart
+              1. Fetching the data from local csv file with fetch()
+              2. Change the csv format data into string
+              3. Add the string into array with split() 
+              4. Put those string array into chart function
+              5. Display the chart
               
 ///////// What I have learned 
               
